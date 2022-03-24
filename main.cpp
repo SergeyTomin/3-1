@@ -3,6 +3,7 @@
 #include <iostream>
 #include <iomanip>
 
+
 /**
  * \brief Рассчитывает значение функции в заданной точке \a x.
  * \param x Заданная точка.
